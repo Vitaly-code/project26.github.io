@@ -1,0 +1,19 @@
+<html>
+<head>
+<meta charset="utf-8">
+  <title>Тег input, атрибут list</title></head>
+<body>
+<p><form>
+<input list="cocktail">
+<datalist id="cocktail">
+<option>Сметана</option>
+<option>Молоко</option>
+<option>Творог</option>
+<option>Смоке</option>
+<option>Милк</option>
+<option>Жир</option>
+<option>Мел</option>
+</datalist>
+</form></p>
+</body>
+</html>
